@@ -1,0 +1,3 @@
+[submodule "proj1.specs"]
+	path = proj1.specs
+	url = https://github.com/munderseth/proj1.specs.git
